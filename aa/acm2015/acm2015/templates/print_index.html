@@ -1,0 +1,24 @@
+{% extends 'print.html' %}
+
+{% block script %}
+    <script language="javascript">
+    function check() {
+        if(document.login.code.value.length < 10 || document.login.code.value.length > 30000)
+        {
+            alert("The code length is too long or too short");
+            return false;
+        }
+        return true;
+    }
+    </script>
+{% endblock %}
+{% block body %}
+    <form name="login" method="post" action="/print/result">
+        {% csrf_token %}
+        <span style="font-size: 14px;text-align: left;">Paste your code here <b style="color: red">(No more than 30000 bytes & No less than 10 bytes)</b> :</span><br/>
+        <textarea name="code" cols="50" rows="20"></textarea><br/>
+        {% for er in errors %}{{ er }}<br/>{% endfor %}
+        <input type="hidden" name="print" value="acm1234+-*/">
+        <input type="submit" value="Submit" onclick="return check()">
+    </form>
+{% endblock %}

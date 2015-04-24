@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head lang="zh-CN">
+    <meta http-equiv=Content-Type content="text/html;charset=utf-8">
+	<title></title>
+    <link rel="stylesheet" href="/static/css/style2.css">
+    <script type="text/javascript">
+    var currentpos,timer;
+    function getScrollTop(){
+    　　var scrollTop = 0, bodyScrollTop = 0, documentScrollTop = 0;
+    　　if(document.body){
+    　　　　bodyScrollTop = document.body.scrollTop;
+    　　}
+    　　if(document.documentElement){
+    　　　　documentScrollTop = document.documentElement.scrollTop;
+    　　}
+    　　scrollTop = (bodyScrollTop - documentScrollTop > 0) ? bodyScrollTop : documentScrollTop;
+    　　return scrollTop;
+    }
+
+    //文档的总高度
+
+    function getScrollHeight(){
+    　　var scrollHeight = 0, bodyScrollHeight = 0, documentScrollHeight = 0;
+    　　if(document.body){
+    　　　　bodyScrollHeight = document.body.scrollHeight;
+    　　}
+    　　if(document.documentElement){
+    　　　　documentScrollHeight = document.documentElement.scrollHeight;
+    　　}
+    　　scrollHeight = (bodyScrollHeight - documentScrollHeight > 0) ? bodyScrollHeight : documentScrollHeight;
+    　　return scrollHeight;
+    }
+
+    //浏览器视口的高度
+
+    function getWindowHeight(){
+    　　var windowHeight = 0;
+    　　if(document.compatMode == "CSS1Compat"){
+    　　　　windowHeight = document.documentElement.clientHeight;
+    　　}else{
+    　　　　windowHeight = document.body.clientHeight;
+    　　}
+    　　return windowHeight;
+    }
+
+    function isbottom(){
+    　　if(getScrollTop() + getWindowHeight() >= getScrollHeight()){
+    　　　　return true;
+    　　} else {
+            return false;
+        }
+    };
+
+    function initialize()
+    {
+    if(getScrollTop() + getWindowHeight() >= getScrollHeight()){
+      window.location.reload();
+    } else {
+      timer=setInterval("scrollwindow()", 25);
+    }
+    }
+    function sc(){
+    clearInterval(timer);
+    }
+    function scrollwindow()
+    {
+    if(!isbottom()) {
+      window.scrollBy(0,1);
+    }
+    }
+    function back()
+    {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+	window.location.reload();
+    }
+    window.onload=setTimeout(initialize,5000)
+    window.onscroll=function()
+	{
+	//alert(document.documentElement.clientHeight)
+	//alert(  window.screen.height )
+	//alert(document.body.clientHeight + "," + document.documentElement.scrollTop)
+
+	  if(isbottom()){
+	   clearInterval(timer);
+	   setTimeout(back, 3000);
+	  }
+	}
+    </script>
+</head>
+<body bgcolor="#222222">
+    <table width="1000px" border="1" cellspacing="1"  bgcolor="#FFFFFF" align="center" style="border-bottom:#0066FF 1px dashed" class="table_text">
+		<tbody>
+        <tr align="center" class="table_header">
+			<td width="50" height="40">S#</td>
+            <td width="50" height="40">Rank</td>
+            <td width="120" class="fixedsize">Team</td>
+			<td width="120" class="fixedsize">School</td>
+			<td width="70" class="fixedsize">Solved</td>
+			<td width="70" class="fixedsize">Penalty</td>
+			{% for p in problems %}<td>{{ p.id }}</td>{% endfor %}
+		</tr>
+        {% for ts in standing %}
+        <tr align="center" class="table_text" {% if ts.isWinner %}bgcolor="goldenrod"{% elif ts.isGold %}bgcolor="goldenrod"{% elif ts.isSilver %}bgcolor="#888888"{% elif ts.isBronze %}bgcolor="saddlebrown"{% else %}bgcolor="#222222"{% endif %}>
+            <td height="40">{{ ts.sRank }}</td>
+            <td height="40">{{ ts.rank }}</td>
+            <td width="120" class="fixedsize">{{ ts.teamName }}</td>
+            <td width="120" class="fixedsize">{{ ts.school }}</td>
+            <td width="50" class="fixedsize">{{ ts.solved }}</td>
+            <td width="50">{{ ts.points }}</font></td>
+            {% for tss in ts.status %}
+            {% ifequal tss.attempts 0 %}<td></td>{% else %}{% if tss.isFirstSolved %}<td class="first_solved">{{ tss.attempts }}/{{ tss.solutionTime }}</td>{% elif tss.isSolved %}<td class="solved">{{ tss.attempts }}/{{ tss.solutionTime }}</td>{% elif tss.isPending %}<td class="pending">{{ tss.attempts }}</td>{% else %}<td class="unsolved">{{ tss.attempts }}</td>{% endif %}{% endifequal %}
+            {% endfor %}
+        </tr>
+        {% endfor %}
+        <tr align="center" class="table_header">
+			<td width="50" height="25"></td>
+			<td width="50" height="25"></td>
+            <td width="120" class="fixedsize"></td>
+			<td width="120" class="fixedsize"></td>
+			<td width="70" class="fixedsize"></td>
+			<td width="70"></td>
+            {% for p in problems %}<td>{{ p.numberSolved }}/{{ p.attempts }}</td>{% endfor %}
+		</tr>
+        </tbody>
+    </table>
+</body>
+</html>

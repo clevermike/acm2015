@@ -1,0 +1,32 @@
+{% extends 'ballon.html' %}
+
+{% block body %}
+    <table width="800px" border="0" cellspacing="2" bordercolor="#1A5CC8" align="center" style="border-bottom:#0066FF 1px dashed" class="table_text">
+		<tbody>
+        <tr align="center" class="table_header">
+			<td width="50" height="25">TeamId</td>
+			<td width="50" height="25">Name</td>
+			<td width="120" class="fixedsize">School</td>
+            <td width="120" class="fixedsize">Color</td>
+			<td width="120" class="fixedsize">Status</td>
+            <td width="120" class="fixedsize">Options</td>
+		</tr>
+        {% for bl in ballon_list %}
+        <tr align="center" class="table_text" {% cycle '' 'bgcolor="#D7EBFF"' %}>
+            <form name="form{{ bl.id }}" method="post">
+                {% csrf_token %}
+            <input type="hidden" name="id" value="{{ bl.id }}">
+            <td width="50" height="25">team{{ bl.team.id }}</td>
+			<td width="50" height="25">{{ bl.team.english_name }}</td>
+			<td width="120" class="fixedsize">{{ bl.team.school }}</td>
+            <td width="120" class="fixedsize" style="bgcolor:{{ bl.color }}"></td>
+			{% if bl.is_placed %}<td width="120" class="fixedsize" style="color:blue">OK</td>
+            {% else %}<td width="120" class="fixedsize" style="color:red">Pending</td>
+            {% endif %}
+            <td width="120" class="fixeedsize"><input type="submit" {% if bl.is_placed %}value="unplace"{% else %}value="place"{% endif %}></td>
+            </form>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

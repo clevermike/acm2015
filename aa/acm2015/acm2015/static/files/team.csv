@@ -1,0 +1,12 @@
+site,id,account,password,displayname,school,isfriend,isgirl,seatid
+1,1,team1,e4GIRazWCe,USS_Excalibur,山东科技大学,1,0,
+1,2,team2,fUMyRtp3I9,USS_Enterprise,山东科技大学,0,0,
+1,3,team3,DMe6YKYmf1,USS_Constitution,山东科技大学,0,0,
+1,4,team4,qGj84PpIbJ,USS_Reliant,山东科技大学,0,0,
+1,5,team5,9xxr8AR7hZ,USS_Defiant,山东科技大学,0,0,
+1,6,team6,HXPWdjHASA,USS_Constellation,山东科技大学,0,1,
+1,7,team7,ZZ1qnjGjsE,USS_Endeavour,山东科技大学,0,0,
+1,8,team8,lPNuIVtcr5,USS_Eagle,山东科技大学,0,0,
+1,9,team9,ERvb1LIcgG,USS_Trial,山东科技大学,0,0,
+1,10,team10,u4NWaGPExy,USS_Repulse,山东科技大学,0,0,
+1,11,team11,gRKtikIKIE,USS_Excelsior,山东科技大学,0,0,

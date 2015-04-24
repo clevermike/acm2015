@@ -1,0 +1,48 @@
+{% extends 'print.html' %}
+
+{% block script %}
+    <script language="javascript" type="text/javascript">
+    var code; //在全局 定义验证码
+    function createCode() {
+        code = "";
+        var codeLength = 6;//验证码的长度
+        var checkCode = document.getElementById("checkCode");
+        var selectChar = new Array(0, 1, 2, 3, 4, 5, 6, 7, 8, 9,'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z');
+
+        for (var i = 0; i < codeLength; i++) {
+            var charIndex = Math.floor(Math.random() * 36);
+            code += selectChar[charIndex];
+        }
+        //alert(code);
+        if (checkCode) {
+            checkCode.className = "code";
+            checkCode.value = code;
+        }
+    }
+    </script>
+{% endblock %}
+{% block onload %}onload="createCode();"{% endblock %}
+{% block body %}
+    <br />
+    <form name="login" method="post">
+        {% csrf_token %}
+        <table align="center">
+        <tr>
+            <td height="40"><span style="font-size: 14px">Username</span></td>
+            <td><input type="text" name="username" value="{{ username }}"><br/></td>
+        </tr>
+        <tr>
+            <td height="40"><span style="font-size: 14px">Password</span></td>
+            <td><input type="password" name="password" ><br/></td>
+        </tr>
+        <tr>
+            <td height="40"><span style="font-size: 14px">Verifycode</span></td>
+            <td><input type="text" name="input1" style="width: 200px" /> <input type="text" name="input2" onclick="createCode()" readonly="readonly" id="checkCode" class="unchanged" style="width: 100px" /></td>
+        </tr>
+        </table>
+        <br/>
+        <b style="color: red">{% for er in errors %}{{ er }}<br/>{% endfor %}</b>
+        <input type="submit" value="Login">
+
+    </form>
+{% endblock %}

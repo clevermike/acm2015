@@ -1,0 +1,56 @@
+{% extends 'ranklist.html' %}
+
+{% block link %}
+    <table width="1200px" align="center">
+		<tbody>
+			<tr>
+				<td width="25%"><a href="/ranklist/set_concern" style="font-size:13px;color:#1a5cc8;">Click Here To Set Concern Teams</a></td>
+				{% if is_concern %}<td align="left"><a href="/ranklist/" style="font-size:13px;color:#1a5cc8;">Show All Teams</a></td>
+                {% else %}<td align="left"><a href="/ranklist/concern" style="font-size:13px;color:#1a5cc8;">Show Concerned Teams</a></td>
+                {% endif %}
+			</tr>
+		</tbody>
+	</table>
+{% endblock %}
+{% block board %}
+    <table width="1200px" border="0" cellspacing="2" bordercolor="#1A5CC8" align="center" style="border-bottom:#0066FF 1px dashed" class="table_text">
+		<tbody>
+        <tr align="center" class="table_header">
+			<td width="40" height="25"></td>
+			<td width="40" height="25">S#</td>
+			<td width="120" class="fixedsize">School</td>
+            <td width="40" height="25">Rank</td>
+			<td width="120" class="fixedsize">Team</td>
+			<td width="50" class="fixedsize">Solved</td>
+			<td width="50" class="fixedsize">Penalty</td>
+			{% for p in problems %}<td>{{ p.id }}</td>{% endfor %}
+		</tr>
+        {% for ts in standing %}
+        <tr align="center" class="table_text" {% cycle '' 'bgcolor="#D7EBFF"' %}>
+            <td height="30">
+            {% if ts.isWinner %}<img src="/static/img/cup.gif"></td>{% elif ts.isGold %}<img src="/static/img/gold.gif"></td>{% elif ts.isSilver %}<img src="/static/img/silver.gif"></td>{% elif ts.isBronze %}<img src="/static/img/bronze.gif"></td>{% elif ts.isIron %}<img src="/static/img/yousheng.gif"></td>{% elif ts.isFriend %}*</td>{% endif %}
+            <td height="30">{{ ts.sRank }}</td>
+            <td width="120" class="fixedsize">{{ ts.school }}</td>
+            <td height="30">{{ ts.rank }}</td>
+            <td width="120" class="fixedsize">{{ ts.teamName }}</td>
+            <td width="50" class="fixedsize">{{ ts.solved }}</td>
+            <td width="50"><font color="purple">{{ ts.points }}</font></td>
+            {% for tss in ts.status %}
+            {% ifequal tss.attempts 0 %}<td></td>{% else %}{% if tss.isFirstSolved %}<td class="first_solved">{{ tss.attempts }}/{{ tss.solutionTime }}</td>{% elif tss.isSolved %}<td class="solved">{{ tss.attempts }}/{{ tss.solutionTime }}</td>{% elif tss.isPending %}<td class="pending">{{ tss.attempts }}</td>{% else %}<td class="unsolved">{{ tss.attempts }}</td>{% endif %}{% endifequal %}
+            {% endfor %}
+        </tr>
+        {% endfor %}
+        <tr align="center" class="table_header">
+			<td width="40" height="25"></td>
+			<td width="40" height="25"></td>
+			<td width="120" class="fixedsize"></td>
+			<td width="40" height="25"></td>
+            <td width="120" class="fixedsize"></td>
+			<td width="50" class="fixedsize"></td>
+			<td width="50"></td>
+            {% for p in problems %}<td>{{ p.numberSolved }}/{{ p.attempts }}</td>{% endfor %}
+		</tr>
+        </tbody>
+    </table>
+    <center><font size="4">Last update time: {{ header.currentDate }}</font></center>
+{% endblock %}

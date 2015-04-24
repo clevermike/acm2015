@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Sun May 13 14:01:45 CST 2012" generatorId="$Id: DefaultScoringAlgorithm.java 2279 2011-02-24 18:59:49Z laned $" groupCount="1" medianProblemsSolved="2" problemCount="10" problemsAttempted="10" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.2.1 20120304 build 2482" title="2012 Shandong Province ACM Contest" totalAttempts="838" totalSolved="186">
+    <groupList/>
+    <colorList/>
+    <problem attempts="4" id="1" numberSolved="0" title="A:Impasse"/>
+    <problem attempts="194" bestSolutionTime="87" id="2" lastSolutionTime="223" numberSolved="10" title="B:Pick apples"/>
+    <problem attempts="106" bestSolutionTime="26" id="3" lastSolutionTime="246" numberSolved="66" title="C:The Best Seat in ACM Contest"/>
+    <problem attempts="18" bestSolutionTime="167" id="4" lastSolutionTime="205" numberSolved="2" title="D:Mine Number"/>
+    <problem attempts="311" bestSolutionTime="31" id="5" lastSolutionTime="293" numberSolved="30" title="E:Pixel density"/>
+    <problem attempts="49" bestSolutionTime="152" id="6" lastSolutionTime="277" numberSolved="4" title="F:Fruit Ninja I"/>
+    <problem attempts="121" bestSolutionTime="18" id="7" lastSolutionTime="233" numberSolved="68" title="G:n a^o7 !"/>
+    <problem attempts="20" id="8" numberSolved="0" title="H:An interesting game"/>
+    <problem attempts="4" bestSolutionTime="96" id="9" lastSolutionTime="219" numberSolved="2" title="I:Chess"/>
+    <problem attempts="11" bestSolutionTime="115" id="10" lastSolutionTime="263" numberSolved="4" title="J:Fruit Ninja II"/>
+  </standingsHeader>
+  <teamStanding firstSolved="26" index="0" lastSolved="167" points="583" problemsAttempted="8" rank="1" solved="7" teamAlias="Neptune (not aliasesd)" teamExternalId="" teamId="40" teamKey="1TEAM40" teamName="Neptune" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="87" problemId="B:Pick apples--2748968874668310348" solutionTime="87"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="26" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="26"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="167" problemId="D:Mine Number--511929218279534770" solutionTime="167"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="31" problemId="E:Pixel density--101729001496669223" solutionTime="31"/>
+    <problemSummaryInfo attempts="7" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="61" problemId="G:n a^o7 !-8598521284266297397" solutionTime="41"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="96" problemId="I:Chess-7098457249181077549" solutionTime="96"/>
+    <problemSummaryInfo attempts="1" index="10" isPending="false" isSolved="true" points="115" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="115"/>
+  </teamStanding>
+  <teamStanding firstSolved="18" index="1" lastSolved="152" points="469" problemsAttempted="6" rank="2" solved="5" teamAlias="灰袍圣徒 (not aliasesd)" teamExternalId="" teamId="69" teamKey="1TEAM69" teamName="灰袍圣徒" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="118" problemId="B:Pick apples--2748968874668310348" solutionTime="118"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="136" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="76"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="45" problemId="E:Pixel density--101729001496669223" solutionTime="45"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="152" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="152"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="18" problemId="G:n a^o7 !-8598521284266297397" solutionTime="18"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="40" index="2" lastSolved="219" points="661" problemsAttempted="6" rank="3" solved="5" teamAlias="Seal (not aliasesd)" teamExternalId="" teamId="18" teamKey="1TEAM18" teamName="Seal" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="156" problemId="B:Pick apples--2748968874668310348" solutionTime="116"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="85" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="65"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="121" problemId="E:Pixel density--101729001496669223" solutionTime="101"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="true" points="239" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="219"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="60" problemId="G:n a^o7 !-8598521284266297397" solutionTime="40"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="47" index="3" lastSolved="195" points="708" problemsAttempted="7" rank="4" solved="5" teamAlias="&lt;·)#)))≦ (not aliasesd)" teamExternalId="" teamId="22" teamKey="1TEAM22" teamName="&lt;·)#)))≦" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="2" isPending="false" isSolved="true" points="275" problemId="B:Pick apples--2748968874668310348" solutionTime="195"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="93" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="73"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="117" problemId="E:Pixel density--101729001496669223" solutionTime="97"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="67" problemId="G:n a^o7 !-8598521284266297397" solutionTime="47"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="10" isPending="false" isSolved="true" points="156" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="156"/>
+  </teamStanding>
+  <teamStanding firstSolved="56" index="4" lastSolved="223" points="826" problemsAttempted="5" rank="5" solved="5" teamAlias="Uranus (not aliasesd)" teamExternalId="" teamId="3" teamKey="1TEAM3" teamName="Uranus" teamSiteId="1" totalAttempts="13">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="2" isPending="false" isSolved="true" points="323" problemId="B:Pick apples--2748968874668310348" solutionTime="223"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="96" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="56"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="99" problemId="E:Pixel density--101729001496669223" solutionTime="99"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="89" problemId="G:n a^o7 !-8598521284266297397" solutionTime="69"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="true" points="219" problemId="I:Chess-7098457249181077549" solutionTime="219"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="59" index="5" lastSolved="263" points="956" problemsAttempted="6" rank="6" solved="5" teamAlias="SDNU_Ultimate (not aliasesd)" teamExternalId="" teamId="50" teamKey="1TEAM50" teamName="SDNU_Ultimate" teamSiteId="1" totalAttempts="23">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="true" points="178" problemId="B:Pick apples--2748968874668310348" solutionTime="118"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="115" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="95"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="true" points="201" problemId="E:Pixel density--101729001496669223" solutionTime="141"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="59" problemId="G:n a^o7 !-8598521284266297397" solutionTime="59"/>
+    <problemSummaryInfo attempts="4" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="8" index="10" isPending="false" isSolved="true" points="403" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="263"/>
+  </teamStanding>
+  <teamStanding firstSolved="55" index="6" lastSolved="121" points="352" problemsAttempted="6" rank="7" solved="4" teamAlias="SD_OpenGL (not aliasesd)" teamExternalId="" teamId="1" teamKey="1TEAM1" teamName="SD_OpenGL" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="121" problemId="B:Pick apples--2748968874668310348" solutionTime="121"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="91" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="91"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="75" problemId="E:Pixel density--101729001496669223" solutionTime="55"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="65" problemId="G:n a^o7 !-8598521284266297397" solutionTime="65"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="47" index="7" lastSolved="208" points="491" problemsAttempted="6" rank="8" solved="4" teamAlias="Refresh (not aliasesd)" teamExternalId="" teamId="47" teamKey="1TEAM47" teamName="Refresh" teamSiteId="1" totalAttempts="18">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="144" problemId="B:Pick apples--2748968874668310348" solutionTime="104"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="52" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="52"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="true" points="87" problemId="G:n a^o7 !-8598521284266297397" solutionTime="47"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="10" isPending="false" isSolved="true" points="208" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="208"/>
+  </teamStanding>
+  <teamStanding firstSolved="51" index="8" lastSolved="248" points="752" problemsAttempted="5" rank="9" solved="4" teamAlias="tide (not aliasesd)" teamExternalId="" teamId="30" teamKey="1TEAM30" teamName="tide" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="205" problemId="B:Pick apples--2748968874668310348" solutionTime="185"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="68" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="68"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="true" points="408" problemId="E:Pixel density--101729001496669223" solutionTime="248"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="71" problemId="G:n a^o7 !-8598521284266297397" solutionTime="51"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="35" index="9" lastSolved="287" points="799" problemsAttempted="6" rank="10" solved="4" teamAlias="Jupiter (not aliasesd)" teamExternalId="" teamId="48" teamKey="1TEAM48" teamName="Jupiter" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="75" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="35"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="5" isPending="false" isSolved="true" points="387" problemId="E:Pixel density--101729001496669223" solutionTime="287"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="277" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="277"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="60" problemId="G:n a^o7 !-8598521284266297397" solutionTime="60"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="29" index="10" lastSolved="94" points="198" problemsAttempted="5" rank="11" solved="3" teamAlias="*褐色之灵 (not aliasesd)" teamExternalId="" teamId="24" teamKey="1TEAM24" teamName="*褐色之灵" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="29" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="29"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="114" problemId="E:Pixel density--101729001496669223" solutionTime="94"/>
+    <problemSummaryInfo attempts="4" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="55" problemId="G:n a^o7 !-8598521284266297397" solutionTime="55"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="20" index="11" lastSolved="115" points="225" problemsAttempted="4" rank="12" solved="3" teamAlias="panda (not aliasesd)" teamExternalId="" teamId="35" teamKey="1TEAM35" teamName="panda" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="70" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="70"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="135" problemId="E:Pixel density--101729001496669223" solutionTime="115"/>
+    <problemSummaryInfo attempts="5" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="20" problemId="G:n a^o7 !-8598521284266297397" solutionTime="20"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="31" index="12" lastSolved="129" points="260" problemsAttempted="7" rank="13" solved="3" teamAlias="ACtimeS (not aliasesd)" teamExternalId="" teamId="59" teamKey="1TEAM59" teamName="ACtimeS" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="129" problemId="B:Pick apples--2748968874668310348" solutionTime="129"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="71" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="31"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="60" problemId="G:n a^o7 !-8598521284266297397" solutionTime="60"/>
+    <problemSummaryInfo attempts="2" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="34" index="13" lastSolved="104" points="261" problemsAttempted="4" rank="14" solved="3" teamAlias="Worship (not aliasesd)" teamExternalId="" teamId="54" teamKey="1TEAM54" teamName="Worship" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="54" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="34"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="124" problemId="E:Pixel density--101729001496669223" solutionTime="104"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="83" problemId="G:n a^o7 !-8598521284266297397" solutionTime="63"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="78" index="14" lastSolved="122" points="323" problemsAttempted="5" rank="15" solved="3" teamAlias="希望 (not aliasesd)" teamExternalId="" teamId="49" teamKey="1TEAM49" teamName="希望" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="83" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="83"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="162" problemId="E:Pixel density--101729001496669223" solutionTime="122"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="78" problemId="G:n a^o7 !-8598521284266297397" solutionTime="78"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="48" index="15" lastSolved="165" points="333" problemsAttempted="4" rank="16" solved="3" teamAlias="*魔戒之主 (not aliasesd)" teamExternalId="" teamId="4" teamKey="1TEAM4" teamName="*魔戒之主" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="60" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="60"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="true" points="225" problemId="E:Pixel density--101729001496669223" solutionTime="165"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="48" problemId="G:n a^o7 !-8598521284266297397" solutionTime="48"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="50" index="16" lastSolved="184" points="337" problemsAttempted="4" rank="17" solved="3" teamAlias="CLG (not aliasesd)" teamExternalId="" teamId="42" teamKey="1TEAM42" teamName="CLG" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="50" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="50"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="224" problemId="E:Pixel density--101729001496669223" solutionTime="184"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="63" problemId="G:n a^o7 !-8598521284266297397" solutionTime="63"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="50" index="17" lastSolved="119" points="351" problemsAttempted="5" rank="18" solved="3" teamAlias="eCosway (not aliasesd)" teamExternalId="" teamId="12" teamKey="1TEAM12" teamName="eCosway" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="110" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="50"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="159" problemId="E:Pixel density--101729001496669223" solutionTime="119"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="82" problemId="G:n a^o7 !-8598521284266297397" solutionTime="82"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="48" index="18" lastSolved="200" points="357" problemsAttempted="4" rank="19" solved="3" teamAlias="暮星 (not aliasesd)" teamExternalId="" teamId="45" teamKey="1TEAM45" teamName="暮星" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="69" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="69"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="240" problemId="E:Pixel density--101729001496669223" solutionTime="200"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="48" problemId="G:n a^o7 !-8598521284266297397" solutionTime="48"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="28" index="19" lastSolved="217" points="367" problemsAttempted="5" rank="20" solved="3" teamAlias="QUST (not aliasesd)" teamExternalId="" teamId="16" teamKey="1TEAM16" teamName="QUST" teamSiteId="1" totalAttempts="22">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="7" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="82" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="82"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="257" problemId="E:Pixel density--101729001496669223" solutionTime="217"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="28" problemId="G:n a^o7 !-8598521284266297397" solutionTime="28"/>
+    <problemSummaryInfo attempts="10" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="99" index="20" lastSolved="143" points="377" problemsAttempted="4" rank="21" solved="3" teamAlias="*Troy (not aliasesd)" teamExternalId="" teamId="46" teamKey="1TEAM46" teamName="*Troy" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="143" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="143"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="115" problemId="E:Pixel density--101729001496669223" solutionTime="115"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="119" problemId="G:n a^o7 !-8598521284266297397" solutionTime="99"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="56" index="21" lastSolved="207" points="394" problemsAttempted="4" rank="22" solved="3" teamAlias="B2win (not aliasesd)" teamExternalId="" teamId="21" teamKey="1TEAM21" teamName="B2win" teamSiteId="1" totalAttempts="13">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="8" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="91" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="91"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="247" problemId="E:Pixel density--101729001496669223" solutionTime="207"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="56" problemId="G:n a^o7 !-8598521284266297397" solutionTime="56"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="29" index="22" lastSolved="221" points="400" problemsAttempted="4" rank="23" solved="3" teamAlias="*Leonidas (not aliasesd)" teamExternalId="" teamId="38" teamKey="1TEAM38" teamName="*Leonidas" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="9" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="90" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="70"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="true" points="281" problemId="E:Pixel density--101729001496669223" solutionTime="221"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="29" problemId="G:n a^o7 !-8598521284266297397" solutionTime="29"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="65" index="23" lastSolved="192" points="434" problemsAttempted="4" rank="24" solved="3" teamAlias="青岛大学 (not aliasesd)" teamExternalId="" teamId="62" teamKey="1TEAM62" teamName="青岛大学" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="65" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="65"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="true" points="252" problemId="E:Pixel density--101729001496669223" solutionTime="192"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="117" problemId="G:n a^o7 !-8598521284266297397" solutionTime="97"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="73" index="24" lastSolved="275" points="439" problemsAttempted="4" rank="25" solved="3" teamAlias="Allyup (not aliasesd)" teamExternalId="" teamId="13" teamKey="1TEAM13" teamName="Allyup" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="73" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="73"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="true" points="275" problemId="E:Pixel density--101729001496669223" solutionTime="275"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="91" problemId="G:n a^o7 !-8598521284266297397" solutionTime="91"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="41" index="25" lastSolved="270" points="460" problemsAttempted="5" rank="26" solved="3" teamAlias="*Venus (not aliasesd)" teamExternalId="" teamId="23" teamKey="1TEAM23" teamName="*Venus" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="69" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="69"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="true" points="350" problemId="E:Pixel density--101729001496669223" solutionTime="270"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="41" problemId="G:n a^o7 !-8598521284266297397" solutionTime="41"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="65" index="26" lastSolved="217" points="468" problemsAttempted="5" rank="27" solved="3" teamAlias="SDNU_Infinity (not aliasesd)" teamExternalId="" teamId="37" teamKey="1TEAM37" teamName="SDNU_Infinity" teamSiteId="1" totalAttempts="26">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="19" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="126" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="126"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="257" problemId="E:Pixel density--101729001496669223" solutionTime="217"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="85" problemId="G:n a^o7 !-8598521284266297397" solutionTime="65"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="94" index="27" lastSolved="205" points="520" problemsAttempted="5" rank="28" solved="3" teamAlias="UPC001 (not aliasesd)" teamExternalId="" teamId="67" teamKey="1TEAM67" teamName="UPC001" teamSiteId="1" totalAttempts="21">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="114" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="94"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="true" points="265" problemId="D:Mine Number--511929218279534770" solutionTime="205"/>
+    <problemSummaryInfo attempts="6" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="true" points="141" problemId="G:n a^o7 !-8598521284266297397" solutionTime="101"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="56" index="28" lastSolved="293" points="527" problemsAttempted="4" rank="29" solved="3" teamAlias="wal (not aliasesd)" teamExternalId="" teamId="63" teamKey="1TEAM63" teamName="wal" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="138" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="138"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="333" problemId="E:Pixel density--101729001496669223" solutionTime="293"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="56" problemId="G:n a^o7 !-8598521284266297397" solutionTime="56"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="77" index="29" lastSolved="207" points="528" problemsAttempted="5" rank="30" solved="3" teamAlias="NeverQuit (not aliasesd)" teamExternalId="" teamId="66" teamKey="1TEAM66" teamName="NeverQuit" teamSiteId="1" totalAttempts="22">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="104" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="84"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="8" index="6" isPending="false" isSolved="true" points="347" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="207"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="77" problemId="G:n a^o7 !-8598521284266297397" solutionTime="77"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="93" index="30" lastSolved="277" points="555" problemsAttempted="4" rank="31" solved="3" teamAlias="smallant (not aliasesd)" teamExternalId="" teamId="56" teamKey="1TEAM56" teamName="smallant" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="93" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="93"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="true" points="337" problemId="E:Pixel density--101729001496669223" solutionTime="277"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="125" problemId="G:n a^o7 !-8598521284266297397" solutionTime="125"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="55" index="31" lastSolved="242" points="591" problemsAttempted="4" rank="32" solved="3" teamAlias="FreeMen (not aliasesd)" teamExternalId="" teamId="19" teamKey="1TEAM19" teamName="FreeMen" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="55" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="55"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="true" points="402" problemId="E:Pixel density--101729001496669223" solutionTime="242"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="true" points="134" problemId="G:n a^o7 !-8598521284266297397" solutionTime="94"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="67" index="32" lastSolved="250" points="668" problemsAttempted="4" rank="33" solved="3" teamAlias="typhoon (not aliasesd)" teamExternalId="" teamId="10" teamKey="1TEAM10" teamName="typhoon" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="251" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="231"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="true" points="330" problemId="E:Pixel density--101729001496669223" solutionTime="250"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="87" problemId="G:n a^o7 !-8598521284266297397" solutionTime="67"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="41" index="33" lastSolved="288" points="703" problemsAttempted="4" rank="34" solved="3" teamAlias="SinSky (not aliasesd)" teamExternalId="" teamId="26" teamKey="1TEAM26" teamName="SinSky" teamSiteId="1" totalAttempts="21">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="114" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="74"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="14" index="5" isPending="false" isSolved="true" points="548" problemId="E:Pixel density--101729001496669223" solutionTime="288"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="41" problemId="G:n a^o7 !-8598521284266297397" solutionTime="41"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="38" index="34" lastSolved="47" points="85" problemsAttempted="3" rank="35" solved="2" teamAlias="Wisp (not aliasesd)" teamExternalId="" teamId="8" teamKey="1TEAM8" teamName="Wisp" teamSiteId="1" totalAttempts="31">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="47" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="47"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="29" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="38" problemId="G:n a^o7 !-8598521284266297397" solutionTime="38"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="38" index="35" lastSolved="50" points="88" problemsAttempted="5" rank="36" solved="2" teamAlias="*Mars (not aliasesd)" teamExternalId="" teamId="68" teamKey="1TEAM68" teamName="*Mars" teamSiteId="1" totalAttempts="22">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="38" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="38"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="9" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="50" problemId="G:n a^o7 !-8598521284266297397" solutionTime="50"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="45" index="36" lastSolved="63" points="108" problemsAttempted="4" rank="37" solved="2" teamAlias="Spectre (not aliasesd)" teamExternalId="" teamId="28" teamKey="1TEAM28" teamName="Spectre" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="63" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="63"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="45" problemId="G:n a^o7 !-8598521284266297397" solutionTime="45"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="41" index="37" lastSolved="74" points="115" problemsAttempted="3" rank="38" solved="2" teamAlias="我们是来打酱油的 (not aliasesd)" teamExternalId="" teamId="64" teamKey="1TEAM64" teamName="我们是来打酱油的" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="41" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="41"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="8" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="74" problemId="G:n a^o7 !-8598521284266297397" solutionTime="74"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="57" index="38" lastSolved="72" points="129" problemsAttempted="3" rank="39" solved="2" teamAlias="WalkDog (not aliasesd)" teamExternalId="" teamId="33" teamKey="1TEAM33" teamName="WalkDog" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="57" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="57"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="72" problemId="G:n a^o7 !-8598521284266297397" solutionTime="72"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="67" index="39" lastSolved="86" points="153" problemsAttempted="4" rank="40" solved="2" teamAlias="FlyingCat (not aliasesd)" teamExternalId="" teamId="51" teamKey="1TEAM51" teamName="FlyingCat" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="86" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="86"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="67" problemId="G:n a^o7 !-8598521284266297397" solutionTime="67"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="54" index="40" lastSolved="82" points="156" problemsAttempted="4" rank="41" solved="2" teamAlias="SDNU_Beta (not aliasesd)" teamExternalId="" teamId="17" teamKey="1TEAM17" teamName="SDNU_Beta" teamSiteId="1" totalAttempts="13">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="82" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="82"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="74" problemId="G:n a^o7 !-8598521284266297397" solutionTime="54"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="55" index="41" lastSolved="84" points="159" problemsAttempted="5" rank="42" solved="2" teamAlias="Gauss (not aliasesd)" teamExternalId="" teamId="55" teamKey="1TEAM55" teamName="Gauss" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="104" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="84"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="55" problemId="G:n a^o7 !-8598521284266297397" solutionTime="55"/>
+    <problemSummaryInfo attempts="2" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="52" index="42" lastSolved="115" points="167" problemsAttempted="3" rank="43" solved="2" teamAlias="AC_Machine (not aliasesd)" teamExternalId="" teamId="34" teamKey="1TEAM34" teamName="AC_Machine" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="115" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="115"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="52" problemId="G:n a^o7 !-8598521284266297397" solutionTime="52"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="52" index="43" lastSolved="124" points="176" problemsAttempted="3" rank="44" solved="2" teamAlias="ldu_echo (not aliasesd)" teamExternalId="" teamId="9" teamKey="1TEAM9" teamName="ldu_echo" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="124" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="124"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="52" problemId="G:n a^o7 !-8598521284266297397" solutionTime="52"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="70" index="44" lastSolved="122" points="192" problemsAttempted="3" rank="45" solved="2" teamAlias="*Cowboy (not aliasesd)" teamExternalId="" teamId="6" teamKey="1TEAM6" teamName="*Cowboy" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="122" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="122"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="70" problemId="G:n a^o7 !-8598521284266297397" solutionTime="70"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="34" index="45" lastSolved="158" points="192" problemsAttempted="4" rank="46" solved="2" teamAlias="HITWH (not aliasesd)" teamExternalId="" teamId="14" teamKey="1TEAM14" teamName="HITWH" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="158" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="158"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="34" problemId="G:n a^o7 !-8598521284266297397" solutionTime="34"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="66" index="46" lastSolved="89" points="195" problemsAttempted="4" rank="47" solved="2" teamAlias="*soy (not aliasesd)" teamExternalId="" teamId="44" teamKey="1TEAM44" teamName="*soy" teamSiteId="1" totalAttempts="19">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="89" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="89"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="11" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="true" points="106" problemId="G:n a^o7 !-8598521284266297397" solutionTime="66"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="60" index="47" lastSolved="115" points="195" problemsAttempted="3" rank="48" solved="2" teamAlias="FLY (not aliasesd)" teamExternalId="" teamId="15" teamKey="1TEAM15" teamName="FLY" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="135" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="115"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="60" problemId="G:n a^o7 !-8598521284266297397" solutionTime="60"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="43" index="48" lastSolved="74" points="197" problemsAttempted="4" rank="49" solved="2" teamAlias="ldu_visitor (not aliasesd)" teamExternalId="" teamId="58" teamKey="1TEAM58" teamName="ldu_visitor" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="114" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="74"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="true" points="83" problemId="G:n a^o7 !-8598521284266297397" solutionTime="43"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="76" index="49" lastSolved="126" points="202" problemsAttempted="3" rank="50" solved="2" teamAlias="TheSeeker (not aliasesd)" teamExternalId="" teamId="25" teamKey="1TEAM25" teamName="TheSeeker" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="126" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="126"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="76" problemId="G:n a^o7 !-8598521284266297397" solutionTime="76"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="94" index="50" lastSolved="98" points="212" problemsAttempted="3" rank="51" solved="2" teamAlias="W.E. (not aliasesd)" teamExternalId="" teamId="61" teamKey="1TEAM61" teamName="W.E." teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="118" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="98"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="94" problemId="G:n a^o7 !-8598521284266297397" solutionTime="94"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="54" index="51" lastSolved="164" points="218" problemsAttempted="2" rank="52" solved="2" teamAlias="*SmallFishinCup (not aliasesd)" teamExternalId="" teamId="2" teamKey="1TEAM2" teamName="*SmallFishinCup" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="164" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="164"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="54" problemId="G:n a^o7 !-8598521284266297397" solutionTime="54"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="83" index="52" lastSolved="121" points="224" problemsAttempted="5" rank="53" solved="2" teamAlias="QAU_Deep (not aliasesd)" teamExternalId="" teamId="20" teamKey="1TEAM20" teamName="QAU_Deep" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="83" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="83"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="-1"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="141" problemId="G:n a^o7 !-8598521284266297397" solutionTime="121"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="71" index="53" lastSolved="135" points="226" problemsAttempted="3" rank="54" solved="2" teamAlias="UJN (not aliasesd)" teamExternalId="" teamId="7" teamKey="1TEAM7" teamName="UJN" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="155" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="135"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="13" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="71" problemId="G:n a^o7 !-8598521284266297397" solutionTime="71"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="90" index="54" lastSolved="119" points="229" problemsAttempted="2" rank="55" solved="2" teamAlias="ThePiece (not aliasesd)" teamExternalId="" teamId="70" teamKey="1TEAM70" teamName="ThePiece" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="90" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="90"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="139" problemId="G:n a^o7 !-8598521284266297397" solutionTime="119"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="92" index="55" lastSolved="138" points="230" problemsAttempted="4" rank="56" solved="2" teamAlias="NO.zero (not aliasesd)" teamExternalId="" teamId="52" teamKey="1TEAM52" teamName="NO.zero" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="138" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="138"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="92" problemId="G:n a^o7 !-8598521284266297397" solutionTime="92"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="80" index="56" lastSolved="99" points="239" problemsAttempted="4" rank="57" solved="2" teamAlias="Magina (not aliasesd)" teamExternalId="" teamId="65" teamKey="1TEAM65" teamName="Magina" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="159" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="99"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="80" problemId="G:n a^o7 !-8598521284266297397" solutionTime="80"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="84" index="57" lastSolved="137" points="241" problemsAttempted="3" rank="58" solved="2" teamAlias="极品菜鸟 (not aliasesd)" teamExternalId="" teamId="32" teamKey="1TEAM32" teamName="极品菜鸟" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="104" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="84"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="11" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="137" problemId="G:n a^o7 !-8598521284266297397" solutionTime="137"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="84" index="58" lastSolved="169" points="253" problemsAttempted="4" rank="59" solved="2" teamAlias="CrazyCoder (not aliasesd)" teamExternalId="" teamId="53" teamKey="1TEAM53" teamName="CrazyCoder" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="169" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="169"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="12" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="84" problemId="G:n a^o7 !-8598521284266297397" solutionTime="84"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="81" index="59" lastSolved="146" points="267" problemsAttempted="2" rank="60" solved="2" teamAlias="*Carry (not aliasesd)" teamExternalId="" teamId="27" teamKey="1TEAM27" teamName="*Carry" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="166" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="146"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="101" problemId="G:n a^o7 !-8598521284266297397" solutionTime="81"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="95" index="60" lastSolved="186" points="301" problemsAttempted="3" rank="61" solved="2" teamAlias="*GoldenSand (not aliasesd)" teamExternalId="" teamId="39" teamKey="1TEAM39" teamName="*GoldenSand" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="186" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="186"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="true" points="115" problemId="G:n a^o7 !-8598521284266297397" solutionTime="95"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="124" index="61" lastSolved="161" points="365" problemsAttempted="2" rank="62" solved="2" teamAlias="Horizon (not aliasesd)" teamExternalId="" teamId="36" teamKey="1TEAM36" teamName="Horizon" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="161" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="161"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="7" isPending="false" isSolved="true" points="204" problemId="G:n a^o7 !-8598521284266297397" solutionTime="124"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="103" index="62" lastSolved="176" points="379" problemsAttempted="3" rank="63" solved="2" teamAlias="ldu_RuoCai (not aliasesd)" teamExternalId="" teamId="29" teamKey="1TEAM29" teamName="ldu_RuoCai" teamSiteId="1" totalAttempts="13">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="176" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="176"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="7" isPending="false" isSolved="true" points="203" problemId="G:n a^o7 !-8598521284266297397" solutionTime="103"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="144" index="63" lastSolved="188" points="452" problemsAttempted="3" rank="64" solved="2" teamAlias="NewBee (not aliasesd)" teamExternalId="" teamId="57" teamKey="1TEAM57" teamName="NewBee" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="144" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="144"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="7" index="7" isPending="false" isSolved="true" points="308" problemId="G:n a^o7 !-8598521284266297397" solutionTime="188"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="171" index="64" lastSolved="246" points="457" problemsAttempted="4" rank="65" solved="2" teamAlias="FatBoys (not aliasesd)" teamExternalId="" teamId="5" teamKey="1TEAM5" teamName="FatBoys" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="246" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="246"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="true" points="211" problemId="G:n a^o7 !-8598521284266297397" solutionTime="171"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="185" index="65" lastSolved="241" points="526" problemsAttempted="3" rank="66" solved="2" teamAlias="NOFO (not aliasesd)" teamExternalId="" teamId="43" teamKey="1TEAM43" teamName="NOFO" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="281" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="241"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="7" isPending="false" isSolved="true" points="245" problemId="G:n a^o7 !-8598521284266297397" solutionTime="185"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="113" index="66" lastSolved="113" points="173" problemsAttempted="3" rank="67" solved="1" teamAlias="sdwuc (not aliasesd)" teamExternalId="" teamId="31" teamKey="1TEAM31" teamName="sdwuc" teamSiteId="1" totalAttempts="19">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="10" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="5" index="3" isPending="false" isSolved="false" points="0" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="7" isPending="false" isSolved="true" points="173" problemId="G:n a^o7 !-8598521284266297397" solutionTime="113"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="233" index="67" lastSolved="233" points="233" problemsAttempted="2" rank="68" solved="1" teamAlias="sdwua (not aliasesd)" teamExternalId="" teamId="60" teamKey="1TEAM60" teamName="sdwua" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="7" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="true" points="233" problemId="G:n a^o7 !-8598521284266297397" solutionTime="233"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="68" lastSolved="0" points="0" problemsAttempted="1" rank="69" solved="0" teamAlias="*IT-COF (not aliasesd)" teamExternalId="" teamId="41" teamKey="1TEAM41" teamName="*IT-COF" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G:n a^o7 !-8598521284266297397" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="69" lastSolved="0" points="0" problemsAttempted="2" rank="69" solved="0" teamAlias="sdwub (not aliasesd)" teamExternalId="" teamId="11" teamKey="1TEAM11" teamName="sdwub" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A:Impasse--3177933593969357609" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B:Pick apples--2748968874668310348" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C:The Best Seat in ACM Contest--5731406294388576280" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D:Mine Number--511929218279534770" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E:Pixel density--101729001496669223" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F:Fruit Ninja I-8252244044405754112" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="7" isPending="false" isSolved="false" points="0" problemId="G:n a^o7 !-8598521284266297397" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H:An interesting game--6781309878355332188" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="9" isPending="false" isSolved="false" points="0" problemId="I:Chess-7098457249181077549" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="10" isPending="false" isSolved="false" points="0" problemId="J:Fruit Ninja II--8572626785733649756" solutionTime="0"/>
+  </teamStanding>
+</contestStandings>

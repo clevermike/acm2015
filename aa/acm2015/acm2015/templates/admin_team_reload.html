@@ -1,0 +1,21 @@
+{% extends 'admin_index.html' %}
+
+{% block content %}
+    <form enctype="multipart/form-data" method="POST">
+        {% csrf_token %}
+        <input type="file" name="file"/><br />
+        <input type="submit" value="Load" />
+        <input type="button" value="Show All" onclick="window.location.href='/2ol5aCm/360916/PFxt3V/admIn/team/show'"/>
+        <script language="javascript">
+        function delcfm() {
+            var del = confirm("确认要删除？");
+            if (del == true) {
+                window.location.href='/2ol5aCm/360916/PFxt3V/admIn/team/clearall'
+            }
+        }
+        </script>
+        <input type="button" value="Clear All" onclick="delcfm()" />
+    </form>
+    <b style="color: red">{% for er in errors %}{{ er }}<br/>{% endfor %}</b>
+{% endblock %}
+
