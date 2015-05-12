@@ -1,0 +1,138 @@
+site	id	account	password	displayname	nickname	school	isstar	isgirl	seatid	coach	player1	player2	player3
+1	1	team1	fL3xez6b0j	English rookie	不会读英文题	青岛科技大学	0	0	A01	庞志永	袁云锋	孙伟涛	袁帅
+1	2	team2	dWNDlf3HXR	TeamName	TeamName	鲁东大学	0	0	A02	张小峰	陈智豪	陈威威	张明月
+1	3	team3	gi12wI5fXi	just do it	勇敢的心	青岛理工大学	0	0	A03	王金龙	管静云	王卓 	樊懿锋
+1	4	team4	rzBTinAIHh	shadow walker	暗影使者	中国石油大学（华东）	0	0	A04	钟敏	李政	兰阳	宋笑宇
+1	5	team5	etz9GDvc8M	The Sea Gull	海鸥	青岛农业大学	0	0	A05	王静	么明名	薛乔木	杜倩倩
+1	6	team6	fykBZh7yNg	HCILY	夜夜栖芳草	中国石油大学（华东）	1	0	A06	肖太可	杨晶龙	计晗雪	王浩
+1	7	team7	WKK0D9dm07	Black Organization	黑色组织	潍坊学院	0	0	A07	王磊	戴凯捷	崔承浩	王苗月
+1	8	team8	N1ZJkcqsho	DYS	普通的程序猿	山东师范大学	0	0	A08	李圣涛	孙磊	王玉	杨郑鑫
+1	9	team9	Izaxj1waX8	dragon	龙	中国海洋大学	1	0	A09	刘培顺	林敏轩	孙磊	肖年浩
+1	10	team10	OQBVnN6OlC	Take it easy	山大附属中学签到小分队	山东大学（威海）	0	0	A10	袁灏	高赛	李舟	吴忧
+1	11	team11	MkyI2bdRfE	Saber	Saber	山东大学	0	0	A11	何萌	马晨昊	张春阳	郭京磊
+1	12	team12	lLzVpl7yXA	growing trees	新森队	青岛科技大学	0	0	A12	庞志永	徐梦翔	宋凯	徐敏杰
+1	13	team13	OShl0PSeqO	Old Altars	老坛酸菜	山东工商学院	0	0	A13	肖进杰	任宇	黄功福	王震
+1	14	team14	n1SsjH3V4t	red fox	赤狐	滨州学院	0	1	A14	宋锋	徐英会	汤海月	王晨辉
+1	15	team15	BWIiIMGVG7	USS Reliant	NCC-1864	山东科技大学	0	0	A15	高莹	王成瑞	庄东霖	李睿易
+1	16	team16	hPvDhFt0WK	Overflow	烫烫烫	烟台大学	0	0	A16	周世平	杨英明	修昊	兰若珊
+1	17	team17	apkxIzH7CI	poipoipo	泡一泡一泡	山东师范大学	0	0	A17	李圣涛	刘宝玺	王琛	朱永清
+1	18	team18	LqiR1ut20x	A Cute Goat	奇思妙想喜羊羊	山东理工大学	1	0	A18	刘晓红	李自钊	王衡	曾祥熙
+1	19	team19	srNhaFSCa6	see you again	与你重逢	济南大学	0	0	A19	蔺永政	陈志昂	李福恒	吴东霖
+1	20	team20	iM5UpuKOJQ	eating sleeping bestcoder	吃饭睡觉打bc	山东大学（威海）	1	0	A20	袁灏	蔡剑成	马春雨	闪雪萌
+1	21	team21	FNPyURCL78	white&&balck	破晓	哈尔滨工业大学（威海）	1	0	A21	张岩	吴永林	江宇川	李介尘
+1	22	team22	P78SVPySNa	brave fighters	笨小孩	山东农业大学	0	0	A22	费玉奎	潘传幸	王记龙	刘澍波
+1	23	team23	nmldHHZwsk	byron_daughters	拜伦家姑娘	中国海洋大学	0	1	A23	刘培顺	董艳虹	秦爽	杨岚惠子
+1	24	team24	SI4g3d6IYN	poipoipoi	poipoipoi	枣庄学院	0	0	A24	宫丽娜	杨坤	刘阳	庞敏敏
+1	25	team25	Un8iWwUojL	USS Excelsior	NCC-2000	山东科技大学	1	0	A25	吴振寰	单仲恺	潘安琪	周俊
+1	26	team26	a5X3v1Dckt	The God of fortune	可惜没如果	青岛理工大学	0	0	A26	吴万春	胡云飘	卢振	窦锦楠
+1	27	team27	eYTmilnK4e	T.A.G	天才AC少女	山东大学（威海）	1	0	A27	袁灏	郭帅	李竞	王磊
+1	28	team28	Ltdn67RhnD	Heat	热火	山东理工大学	0	0	A28	马新娟	徐露	陶正智	孔维轩
+1	29	team29	kx1bICWpbY	Rider	Rider	山东大学	0	0	A29	何萌	张庭坚	石欣然	李忠利
+1	30	team30	NGH4YLpivn	Too Young,Too Simple	我爱吃素	山东建筑大学	0	0	A30	刘毅	贾忠祥	沈龙	韩雨
+1	31	team31	lQMeouwSDy	Evolution Cyber	雏鹰	曲阜师范大学	0	0	A31	谭伟	武吉龙	宋天霞	戴文梦 
+1	32	team32	PG10pFrmmn	SnowFox	雪狐	济南大学	0	0	A32	蒋彦	张亦鹏	卓炼翔	谢永鹏
+1	33	team33	lAGGFwuPki	freshman	大一菜鸟	青岛大学	0	0	A33	杜祥军	张亭亭	曹成龙	栾成
+1	34	team34	U00PttR37Y	CodeMind	心灵编码	山东农业大学	0	0	A34	费玉奎	李忠坤	于宏宝	王志铧
+1	35	team35	3mnfBeTo0m	111	我要我要我要	哈尔滨工业大学（威海）	0	0	A35	董开坤	余成龙	左训丰	刘少伟
+1	36	team36	VgigVmw8nt	USS Constitution	NCC-1700	山东科技大学	0	0	A36	高莹	高明成	韩书楷	孙浩然
+1	37	team37	Q3McvDlnZC	Hope of the star(Hots)	星梦	临沂大学	0	0	A37	王九如	韩现群	袁青	刘红锁
+1	38	team38	LO11y2yj9H	Do_Your_Best	Do_Your_Best	山东理工大学	0	0	A38	张立红	李一宁	徐建	樊明会
+1	39	team39	oTY7WKPS8x	Alice	爱丽丝	烟台大学	0	0	A39	卢云宏	孙锐	张帅	万延鹏
+1	40	team40	UcRZ4ycGn0	TOB	尖峰队	滨州学院	0	0	A40	李群	贾济磊	栾赟	张岗
+1	41	team41	MPZC5txvMd	NICOPOIDUANG	索尼大法好	枣庄学院	0	0	A41	宫丽娜	张易	王成昊	李储岩
+1	42	team42	pMpwFEyy76	Baymax	大白	中国石油大学胜利学院	0	1	A42	胡霖	李颖	刘彦玲	韩国莲
+1	43	team43	VUFvXBVcVq	Accepted	这个名字很好听	山东大学（威海）	0	0	A43	曲美霞	严定奎	朱创	曾磊
+1	44	team44	KcBIYPbwIs	CC	CC	青岛工学院	0	0	A44	梁宏涛	郑鑫	熊帅	袭荣慧
+1	45	team45	LmGTwav6U0	ZRL	ZRL	鲁东大学	0	0	A45	宋丽华	周梦涛	任仲臣	逯其鲁
+1	46	team46	xFbgrU4tmp	Akatsuki_deadline	拂晓的水平线	哈尔滨工业大学（威海）	0	0	A46	董开坤	张鹏飞	沈放放	王宇辰
+1	47	team47	yVDiz4F8NT	Undead	诈尸队	青岛科技大学	0	0	A47	庞志永	杜翔宇	郁昌存	李振
+1	48	team48	0rfmSjvhTF	Ants	蚂蚁	中国石油大学（华东）	1	0	A48	武鑫磊	周琪涵	高玉鑫	杨武元
+1	49	team49	bRZaOL9ZaG	which	未闻队名	山东农业大学	1	0	A49	费玉奎	费子楚	陈泽汉	高景胜
+1	50	team50	I4kgqHOXSB	Insist There Is Hope	坚持就有希望	山东理工大学	1	0	A50	刘晓红	杨少鹏	刘旭	王劭阳
+1	51	team51	0E9IcCARxr	Polaris	北极星	聊城大学	0	0	A51	赵传申	栗通	向涛	赵启浩
+1	52	team52	EgTMM6DWRJ	Valar Morghulis	凡人皆有一死	哈尔滨工业大学（威海）	0	0	B01	董开坤	张志鹏	邓逸安	梁卓乔
+1	53	team53	izgTQcaF9X	Dreamtale	亡灵序曲	山东理工大学	0	0	B02	王海鹏	尚成飞	孙家才	李岩
+1	54	team54	jd2Bq5iFQe	sky blue	天蓝	青岛工学院	0	0	B03	杨新艳	郭克俭	郭润圻	李璐
+1	55	team55	8R9ISt0rIB	USS Constellation	NCC-1974	山东科技大学	1	1	B04	仇丽青	王晓敏	刘俊旭	杨敏
+1	56	team56	YplnNwYtMZ	Avalon	阿瓦隆	临沂大学	0	0	B05	薛琳	林亚林	张贺	胡希刚
+1	57	team57	BXKfvDB3YC	Green Hand	追风筝的人	山东大学（威海）	1	0	B06	袁灏	牛洵	郭晓琳	胡方正
+1	58	team58	40PDbzyoQj	Just play	玩一玩	山东建筑大学	0	0	B07	柳楠	李鸿超	袁汉春	刘安智
+1	59	team59	k4KAfy3Y1t	Actor.New	新演员	青岛科技大学	0	0	B08	庞志永	杨震坤	付忠庆	赵剑
+1	60	team60	Zaz0pFQRFz	we can	彩球飘扬	济南大学	0	1	B09	蒋彦	韩睿	林怡飞	马英君
+1	61	team61	uv7VcjXcBs	hunewearl	星奇	中国海洋大学	1	1	B10	刘培顺	陈星南	姜宁	马妮洁
+1	62	team62	JGcmgM1uf4	No name without prize	打个星星都要起名	山东理工大学	1	0	B11	刘晓红	贾晓楠	刘子祥	吕云飞
+1	63	team63	9rfckc3zJR	Archer	Archer	山东大学	0	0	B12	何萌	张宇朋	贾佳	郭涵章
+1	64	team64	B8eJwl3Oty	Buddhist scriptures	西天取经	山东大学（威海）	0	0	B13	曲美霞	朱振龙	毕超	姚越
+1	65	team65	oVcAGDyM1b	Avenger	Avenger	山东大学	1	0	B14	何萌	宋双兵	李沁桐	姚懿容
+1	66	team66	wT6r6wmzcG	artofdream	artofdream	青岛大学	0	0	B15	杜祥军	江学磊	李承龙	杨皓
+1	67	team67	AT9CKu74mQ	USS Endeavour	NCC-1895	山东科技大学	1	0	B16	仇丽青	王玉珏	李金荣	赵胜
+1	68	team68	cHif6PW7ba	what is the name	名字是啥能吃吗	山东农业大学	0	0	B17	贺安坤	张胜飞	金明辉	赵立山
+1	69	team69	15pwUlqlYu	ThisWillBeANewBeginning	东来的少年	中国石油大学（华东）	0	1	B18	张学辉	宋巧霖	陈思琪	王海宁
+1	70	team70	rbximo8IWU	bugkiller	哎可赛忒的	山东师范大学	1	0	B19	房晓南	田宗雨	魏华超	周旭晖
+1	71	team71	NqCFxtid34	Watcher	路过	烟台大学	1	0	B20	封玮	周童晖	王琪	王一锟
+1	72	team72	UwX07LFIrl	Pathfinder	开拓者	枣庄学院	0	0	B21	宫丽娜	高硕	朱成浩	姜元爽
+1	73	team73	ABOl5Ak4sc	For the Dream	生死看淡，不服就干！	山东理工大学	0	0	B22	张先伟	朱鸣啸	金泽宇	柴金鑫
+1	74	team74	GkF4dXCJlg	OUC_Duang	嘟昂	中国海洋大学	0	0	B23	刘培顺	叶碧洪	李鹤	苑海旺
+1	75	team75	QRYkD2HIGU	L2	L2	山东财经大学	0	0	B24	周波	李家文	刘洪涛	张修运
+1	76	team76	gaKG9AodlY	Jing Jing	听说你想我	哈尔滨工业大学（威海）	1	0	B25	张岩	林凯	韩济涛	常青宇
+1	77	team77	0elJBIulj7	Smile	Smile	鲁东大学	0	0	B26	雷鹏	张圣晨	杨延雷	贺峰
+1	78	team78	j6dTmlKUca	Caster	Caster	山东大学	0	0	B27	何萌	陈炎甫	高昂	刘德聪
+1	79	team79	lDnnvaG1Ij	S.H.I.E.L.D	暾暾蒙佳油	中国海洋大学	0	0	B28	刘培顺	孙佳为	蒙煜明	徐暾
+1	80	team80	0GegAItX4R	Press Any Key To Poi	然而并没有	青岛理工大学	0	0	B29	吴万春	石靖宇	陈家威	纪金伟
+1	81	team81	Wave1E6jmB	Main	主函数	中国石油大学胜利学院	0	0	B30	王雪冰	鹿国栋	刘建然	刘昊
+1	82	team82	9gPADRWl97	3 Idiots	三傻	青岛农业大学	0	0	B31	王静	向隆	王敏	张钰晗
+1	83	team83	cRD9XeuXSB	Ouroboros	皮卡皮卡皮卡丘	山东大学（威海）	0	0	B32	袁灏	饶巍	张文鲁	戚妙
+1	84	team84	9d95tJKazq	Minecraft	我的世界	滨州学院	0	0	B33	周爱华	穆本麒	刘啸	龚恒耿
+1	85	team85	ebDoFsWVEv	Hello World	一丝不挂	烟台大学	0	0	B34	封玮	刘壮	李麟风	张文超
+1	86	team86	V4A487XzA7	NullPoint	空虚指针	山东师范大学	0	0	B35	李圣涛	马天	钟金宝	刘国龙
+1	87	team87	MtfGMYTiCF	USS Excalibur	NCC-1664	山东科技大学	0	0	B36	吴振寰	徐利澄	周家辉	张正锟
+1	88	team88	RF9EOrfDmQ	USS Trial	NCC-1948	山东科技大学	1	0	B37	仇丽青	张晨阳	隋仁杰	马禺喆
+1	89	team89	MnHdqkVYim	TeenagerTop	小强	曲阜师范大学	0	0	B38	谭伟	温玉娇	孙付	董龙飞
+1	90	team90	vHTjjmzzEF	maker	一口吃掉	山东理工大学	1	1	B39	刘晓红	王聪	卢利英	张兆迪
+1	91	team91	fkz1bBzwVL	whatever	我们来干票大的	中国海洋大学	1	0	B40	刘培顺	董群	陈玉鹏	陈康
+1	92	team92	W6MfCkotbH	AD team	菜刀队	青岛大学	0	0	B41	杜祥军	杨玉飞	杜连涛	徐可飞
+1	93	team93	A9NR3VvYbU	WaHaHa	哇哈哈	山东工商学院	0	1	B42	肖进杰	刘彩娟	彭佳琪	张剑婷
+1	94	team94	XS9Sfi0c9L	Berserker	Berserker	山东大学	0	0	C01	何萌	李静婷	冯宗浩	石亚豪
+1	95	team95	RItNIQk6ip	USS Repulse	NCC-2544	山东科技大学	1	0	C02	吴振寰	胡明帅	张振虎	董傲
+1	96	team96	gZloXJkuKN	ACE	ACE	青岛大学	0	0	C03	杜祥军	杨款款	张悦	孙小文
+1	97	team97	IjUeSayryJ	CatCage	世界的约束	中国石油大学（华东）	0	0	C04	李昕	常健彬	陈远哲	贺冀宁
+1	98	team98	hbbrxYv2g3	English(null)	中文队名可不填	滨州学院	0	0	C05	任敏	庄新豪	刘波	杨洋
+1	99	team99	Y75cPZ7iaw	Z3	Z3	山东财经大学	0	0	C06	李恒武	赵培	于淑淼	颜冠鹏
+1	100	team100	54tRTGmdVr	Three Stooges	三个臭皮匠	青岛工学院	0	0	C07	房正华	陈夏明	孙广星	董士程
+1	101	team101	n3KPymMO51	Natural Dull	大王叫我来巡山呐	山东大学（威海）	1	0	C08	曲美霞	查君鹏	陈德仕	于思皓
+1	102	team102	ViEj69ClCF	on my way	噼里啪啦动次打次敲键盘	山东大学（威海）	1	0	C09	曲美霞	郑旭	曾建辉	闵越聪
+1	103	team103	2vHppxfVDS	Crazy Dream	疯狂码达	烟台大学	0	0	C10	卢云宏	段伦彪	公丕鑫	黄超
+1	104	team104	KeqINBtzF5	AC_team	AC_team	中国海洋大学	1	0	C11	刘培顺	周凯	申月	李雪涛
+1	105	team105	mWUKXv4GNs	USS Defiant	NCC-1764	山东科技大学	0	0	C12	仇丽青	王一鸣	田绍伟	张格瑾
+1	106	team106	WesXbqeBSD	D-Cul	迪巧小儿钙	山东工商学院	0	0	C13	肖进杰	刘文博	赵鹏	刘心怡
+1	107	team107	GG0bgUZ4Ap	star and stars	凡星	哈尔滨工业大学（威海）	0	0	C14	董开坤	郑博	向凌召	郑安琪
+1	108	team108	GoehiPdmKa	Flyme	弗莱依	青岛理工大学	0	0	C15	巩玉玺	苏洋	孙大程	欧阳颍
+1	109	team109	lOeupFCHc7	SHIELD	神盾	济南大学	0	0	C16	蒋彦	董政	郭开仙	于晓杰
+1	110	team110	1WH09VzCKL	USS Eagle	NCC-1956	山东科技大学	1	0	C17	仇丽青	尹冰	周熙威	王伟铸
+1	111	team111	wSagzqT66j	threebody	三体	山东农业大学	0	1	C18	张广梅	吴润方	荣雅洁	孟晓菡
+1	112	team112	F6QwvgWsFg	duang	duang	山东师范大学	0	0	C19	房晓南	高小川	李春阳	党启贺
+1	113	team113	YGpCWZOcca	nicofish	魔术师	中国石油大学（华东）	0	0	C20	张学辉	杨志彬	张威	崔振宇
+1	114	team114	L4lpOFDIqq	BurNIng	BurNIng	济南大学	0	0	C21	李金屏	孟作为	明钢	纪笑难
+1	115	team115	s2iqTBtsv4	OUC_Analyse	迪拉克之海	中国海洋大学	0	0	C22	刘培顺	刘暾	李心田	魏来
+1	116	team116	vdvqZD95tg	Lancer	Lancer	山东大学	1	0	C23	何萌	杜海光	崔洁全	房元发
+1	117	team117	VrZR5oN2uz	Never_Give_up	咦？我怎么来了	山东理工大学	0	0	C24	刘晓红	赵鹏	尚灿芳	崔哲
+1	118	team118	9CLjajCPvX	Royal	王者	枣庄学院	0	0	C25	宫丽娜	魏忠义	王登科	张强
+1	119	team119	wn0bRVEni4	challenge	优C	滨州学院	0	0	C26	宋锋	赵笑	刘珍	徐海南
+1	120	team120	FMmplRCTG1	Immortals	不朽的水母	山东大学（威海）	0	1	C27	曲美霞	王诗怡	杨佳美	赵柳月
+1	121	team121	lv3wDloCXQ	ACM-Fighter	ACM战斗机	烟台大学	0	0	C28	周世平	鞠鑫	高光杰	王瑞
+1	122	team122	bUpNd3pYXK	Acceleration	停不下来	哈尔滨工业大学（威海）	0	0	C29	董开坤	程今	刘睿	于江
+1	123	team123	dJflBqOfMJ	unknown	不知道	青岛科技大学	0	0	C30	庞志永	彭聪	刘泽琳	王宝祥
+1	124	team124	Id8BO6cMo4	USS Enterprise	NCC-1701	山东科技大学	0	0	C31	仇丽青	孙鑫	赵帅	张浩
+1	125	team125	49qfGtaO1t	sauce	酱油	青岛大学	0	0	C32	杜祥军	孙晓东	胡钰程	于培华
+1	126	team126	XOGUI06tFS	mengdada's apple tree	你说我们是不是萌萌哒	山东理工大学	1	1	C33	刘晓红	乔璐	宋萍萍	王淑婷
+1	127	team127	gcEFzupt6a	Big Information	大信息	临沂大学	0	0	C34	丁林花	刘广彬	诸葛文杜	郝静
+1	128	team128	z906mnIqdS	hermit	千古盈亏休问	山东师范大学	0	0	C35	房晓南	王雨辰	李晓飞	高永强
+1	129	team129	ZSypo3r55U	Assassin	Assassin	山东大学	1	0	C36	何萌	丁峰	白岩松	赵尚立
+1	130	team130	pM8zoBUsFA	yyfish	yyfish	中国石油大学（华东）	0	0	C37	张学辉	高庆金	周晗	王晓凤
+1	131	team131	4JqBfLolN0	Ring of Fates	命运之轮	潍坊学院	0	0	C38	王磊	于涵	赵空暖	刘晓鹏
+1	132	team132	2Zfkt6rpa0	cod	鳕鱼	青岛理工大学	0	0	C39	刘桂香	赵雪宇	罗明俊	柴文俊
+1	133	team133	njy7dQJkNN	IBN5100	左牵黄	中国海洋大学	0	0	C40	刘培顺	姜伟鹏	李光明	黄雅淋
+1	134	team134	p5Ikov409f	L1	L1	山东财经大学	0	0	C41	李恒武	李春柳	燕娜娜	张梦羽
+1	135	team135	LTZUfuawvw	Reversal destiny	我们是渣渣	山东理工大学	1	0	C42	刘晓红	李标	宋金学	孙铭
+1	136	team136	AhWpBhy9YB	deep blue	深蓝	青岛农业大学	0	0	C43	王静	何金金	段成真	梁迪
+1	137	team137	aKWvzyu0qo	Black Boys	篮球队	山东建筑大学	0	0	C44	李国文	张瑞	葛威	张洪达
