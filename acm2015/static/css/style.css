@@ -1,0 +1,35 @@
+body { margin: 0; margin-top: 10px; font-size: 12px; line-height: 1.231; text-align:center;}
+body, button, input, select, textarea { font-family: sans-serif; color: #222; }
+h1 { color: royalblue; text-align: center; font-size: 32px; font: Arial }
+.table_header { font-family: Arial; font-weight: bold; font-size:13px; color: #ffffff; background-color:royalblue; text-align:center }
+.table_text { font-family: Tahoma; font-size:13px}
+a{ color:#1a5cc8; text-decoration:none }
+a:hover { color:orange; text-decoration:underline }
+.fixedsize { word-wrap:break-word; word-break:break-all }
+.first_solved { background-color:green;color:white;font-weight:800 }
+.solved { background-color:palegreen;color:black }
+.unsolved { background-color:salmon;color:black }
+.pending { background-color:orange;color:black }
+.nav ul{width:200px;}
+.nav ul li{list-style-type:none;}
+.nav ul li a{ width:120px; height:40px; line-height:40px; background:royalblue; color:#ffffff; margin:20px 20px; font-size:14px; display:block; text-align:center; text-decoration:none}
+.nav ul li a:hover{ width:120px; height:38px; line-height:40px; border:1px royalblue; color:royalblue; background:#ffffff;}
+
+.left { float: left; height: auto; width: 200px; border: 1px solid #ffffff;}
+.right { float: left; height: auto; width: 900px; border: 1px solid #ffffff; overflow: auto;}
+.header{padding:10px;}
+.page{width:1200px;margin:0 auto;padding-bottom:60px;}
+.footer{bottom:0;width:100%;clear:both;}
+.code {
+background-image: url(code.jpg);
+font-family: Arial;
+font-style: italic;
+color: Red;
+border: 0;
+padding: 2px 3px;
+letter-spacing: 3px;
+font-weight: bolder;
+}
+.unchanged {
+border: 0;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="zh-CN">
+    <meta http-equiv=Content-Type content="text/html;charset=utf-8">
+	<title>“浪潮杯”山东省第六届ACM大学生程序设计竞赛</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    {% block script %} {% endblock %}
+</head>
+
+<body {% block onload %} {% endblock %}>
+    <div class="header">
+	    <img src="/static/img/headimg.jpg" width="960" height="180" alt="" id="headerimg">
+	    <h1>“浪潮杯”山东省第六届ACM大学生程序设计竞赛{% block title %}{% endblock %}</h1>
+	</div>
+    <div class="page">
+    {% block body %}{% endblock %}
+    </div>
+    <div class="footer">
+	    <p style="font-size:80%;">All Copyright Reserved 2014-2015 <a style="color:red">SDUST ACM TEAM</a><br>Anything about the Problems, Please Contact Admin:<a style="color:red">admin</a><br></p>
+    </div>
+</body>
+</html>
