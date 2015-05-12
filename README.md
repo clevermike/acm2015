@@ -37,7 +37,7 @@
 ## 10、导入数据文件
 ### http://localhost/master，用django的管理员账户登录，选择“导入数据”
 ## 11、配置其他用户
-### http://localhost/admin，配置气球端账户ballonserver
+### http://localhost/admin，用django的管理员账户登录，增加气球端账户ballonserver
 ## 12、启动封榜脚本
 ### python scripts/FileSender.py
 
