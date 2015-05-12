@@ -3,22 +3,34 @@
 {% block script %}
     <script language="javascript">
     function check() {
-        if(document.login.code.value.length < 10 || document.login.code.value.length > 30000)
+        if(document.login.code.value.length < 10 || document.login.code.value.length > 10000)
         {
-            alert("The code length is too long or too short");
+            alert("Illegal code length");
             return false;
         }
         return true;
     }
     </script>
 {% endblock %}
+
 {% block body %}
     <form name="login" method="post" action="/print/result">
         {% csrf_token %}
-        <span style="font-size: 14px;text-align: left;">Paste your code here <b style="color: red">(No more than 30000 bytes & No less than 10 bytes)</b> :</span><br/>
-        <textarea name="code" cols="50" rows="20"></textarea><br/>
+    <table width="600px" align="center">
+		<tbody>
+			<tr>
+                <td style="text-align:left;font-size:14px;">User: <b style="color:red">{{ user.username }}</b>&nbsp;&nbsp;
+                <a href="logout">Logout</a></td>
+            </tr>
+            <tr>
+				<td style="text-align:left;font-size: 14px;">Code <b style="color: red">(10 ~ 10000 bytes)</b>:</td>
+			</tr>
+            <tr>
+                <td><textarea name="code" cols="40" rows="20"></textarea><br/></td>
+            </tr>
+		</tbody>
+	</table>
         {% for er in errors %}{{ er }}<br/>{% endfor %}
-        <input type="hidden" name="print" value="acm1234+-*/">
         <input type="submit" value="Submit" onclick="return check()">
     </form>
 {% endblock %}

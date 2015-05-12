@@ -9,7 +9,7 @@ a:hover { color:orange; text-decoration:underline }
 .first_solved { background-color:green;color:white;font-weight:800 }
 .solved { background-color:palegreen;color:black }
 .unsolved { background-color:salmon;color:black }
-.pending { background-color:thistle;color:black }
+.pending { background-color:white;color:black }
 .nav ul{width:200px;}
 .nav ul li{list-style-type:none;}
 .nav ul li a{ width:120px; height:40px; line-height:40px; background:royalblue; color:#ffffff; margin:20px 20px; font-size:14px; display:block; text-align:center; text-decoration:none}

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding:utf-8
+#coding=utf-8
 #author:dongchen
 
 '''
@@ -50,13 +50,11 @@ from tools.BoardGenerator import BoardGenerator
 
 
 def show_ranklist(request, is_concern=False, is_display=False):
-
     generator = BoardGenerator()
     header = generator.get_header()
     problems = generator.get_problems()
     for pb in problems:
         pb['id'] = chr(pb['id']+ord('A')-1)
-    print problems
     board = generator.make_board()
     if is_concern:
         standing = []

@@ -1,0 +1,27 @@
+{% extends 'admin_index.html' %}
+
+{% block content %}
+    <table width="800px" border="0" cellspacing="2" bordercolor="#1A5CC8" align="center" style="border-bottom:#0066FF 1px dashed" class="table_text">
+		<tbody>
+        <tr align="center" class="table_header">
+			<td width="50" height="40" class="fixedsize">名称</td>
+			<td width="120" class="fixedsize">操作</td>
+		</tr>
+
+        <tr align="center" class="table_text" {% cycle '' 'bgcolor="#D7EBFF"' %}>
+            <td width="50" height="40">队伍信息表</td>
+            <td>
+                <form enctype="multipart/form-data" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="no" value="1"/>
+                    <input type="file" name="file"/>
+                    <input type="submit" value="上传" />
+                </form>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+    <b style="color: red">{% for er in errors %}{{ er }}<br/>{% endfor %}</b>
+{% endblock %}
+

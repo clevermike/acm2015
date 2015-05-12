@@ -1,6 +1,6 @@
 team1()                                        page:1/2
 
-#coding:utf-8
+#coding=utf-8
 #author:dongchen
 from django.contrib import auth
 from django.contrib.auth.models import User

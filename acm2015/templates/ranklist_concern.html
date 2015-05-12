@@ -22,7 +22,7 @@
         {% for ts in standing %}
         <tr align="center" class="table_text" {% cycle '' 'bgcolor="#D7EBFF"' %}>
             <td height="25"><input type="checkbox" value="{{ ts.teamId }}" name="concern_list" {% if ts.concern %}checked{% endif %}></td>
-            <td width="120" class="fixedsize">{{ ts.teamChName }}</td>
+            <td width="120" class="fixedsize">{{ ts.name }}</td>
             <td width="120" class="fixedsize">{{ ts.school }}</td>
         </tr>
         {% endfor %}

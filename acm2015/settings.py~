@@ -5,6 +5,7 @@
 import types
 
 #pc2的路径
+#PC2_PATH = '/home/dongchen/pc2-9.2.4/bin/'
 PC2_PATH = '/usr/local/pc2/bin/'
 
 #存放文件到路径
@@ -16,7 +17,7 @@ RESULT_PATH = PC2_PATH + 'results.xml'
 #results.xml的副本的路径，副本在比赛结束前一小时不会更新（解析的是这个副本）
 RESULT_PATH_COPY = PC2_PATH + 'results_copy.xml'
 
-#比赛发奖的总队伍数
+#比赛发奖的总队伍数标准
 NUM_GOLD = 11    #金牌
 NUM_SILVER = 21  #银牌
 NUM_BRONZE = 32  #铜牌

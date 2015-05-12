@@ -1,13 +1,42 @@
 {% extends 'ballon.html' %}
 
+{% block script %}
+<script language="JavaScript">
+window.onbeforeunload = function(){
+    var scrollPos;
+    if (typeof window.pageYOffset != 'undefined') {
+        scrollPos = window.pageYOffset;
+    }
+    else if (typeof document.compatMode != 'undefined' &&
+        document.compatMode != 'BackCompat') {
+        scrollPos = document.documentElement.scrollTop;
+    }
+    else if (typeof document.body != 'undefined') {
+        scrollPos = document.body.scrollTop;
+    }
+    document.cookie="scrollTop="+scrollPos; //存储滚动条位置到cookies中
+}
+
+window.onload = function()
+{
+    if(document.cookie.match(/scrollTop=([^;]+)(;|$)/)!=null){
+        var arr=document.cookie.match(/scrollTop=([^;]+)(;|$)/); //cookies中不为空，则读取滚动条位置
+        document.documentElement.scrollTop=parseInt(arr[1]);
+        document.body.scrollTop=parseInt(arr[1]);
+    }
+}
+</script>
+{% endblock %}
 {% block body %}
-    <table width="800px" border="0" cellspacing="2" bordercolor="#1A5CC8" align="center" style="border-bottom:#0066FF 1px dashed" class="table_text">
+    <table width="1000px" border="0" cellspacing="2" bordercolor="#1A5CC8" align="center" style="border-bottom:#0066FF 1px dashed" class="table_text">
 		<tbody>
         <tr align="center" class="table_header">
 			<td width="50" height="25">TeamId</td>
+            <td width="50" height="25">SeatId</td>
 			<td width="50" height="25">Name</td>
-			<td width="120" class="fixedsize">School</td>
+            <td width="120" class="fixedsize">Problem</td>
             <td width="120" class="fixedsize">Color</td>
+            <td width="120" class="fixedsize">Info</td>
 			<td width="120" class="fixedsize">Status</td>
             <td width="120" class="fixedsize">Options</td>
 		</tr>
@@ -17,13 +46,14 @@
                 {% csrf_token %}
             <input type="hidden" name="id" value="{{ bl.id }}">
             <td width="50" height="25">team{{ bl.team.id }}</td>
-			<td width="50" height="25">{{ bl.team.english_name }}</td>
-			<td width="120" class="fixedsize">{{ bl.team.school }}</td>
-            <td width="120" class="fixedsize" style="bgcolor:{{ bl.color }}"></td>
-			{% if bl.is_placed %}<td width="120" class="fixedsize" style="color:blue">OK</td>
-            {% else %}<td width="120" class="fixedsize" style="color:red">Pending</td>
-            {% endif %}
-            <td width="120" class="fixeedsize"><input type="submit" {% if bl.is_placed %}value="unplace"{% else %}value="place"{% endif %}></td>
+            <td width="50" height="25">{{ bl.team.seatId }}</td>
+			<td width="50" height="25">{{ bl.team.name }}</td>
+            <td width="120" class="fixedsize">{{ bl.problem }}</td>
+            <td width="120" class="fixedsize" bgcolor="{{ bl.color.0 }}">{{ bl.color.1 }}</td>
+            <td width="120" class="fixedsize">{{bl.time}}{% if bl.isFirst %} <b>[FB]</b>{% endif %}</td>
+			{% if bl.isPlaced %}<td width="120" class="fixedsize" style="color:blue">OK
+            {% else %}<td width="120" class="fixedsize" style="color:red">Pending{% endif %}</td>
+            <td width="120" class="fixeedsize"><input type="submit" {% if bl.isPlaced %}value="unplace"{% else %}value="place"{% endif %}></td>
             </form>
         </tr>
         {% endfor %}

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#coding:utf-8
+#coding=utf-8
 #author:dongchen
 import datetime
 from django.contrib import auth
@@ -15,13 +15,16 @@ from web.models import Team, Code
 def login(request):
     errors = []
     if request.user.is_active and 'logintime' in request.session:
-        # print request.session['logintime']
-        # print datetime.datetime.now()
-        # print datetime.datetime.now() - datetime.datetime.strptime(request.session['logintime'], '%Y-%m-%d %H:%M:%S')
-        if datetime.datetime.now() - datetime.datetime.strptime(request.session['logintime'], '%Y-%m-%d %H:%M:%S') > USER_KEEP_ALIVE:
+        if datetime.datetime.now() - datetime.datetime.strptime(request.session['logintime'], '%Y-%m-%d %H:%M:%S') > datetime.timedelta(USER_KEEP_ALIVE):
             del request.session['logintime']
             auth.logout(request)
             return HttpResponseRedirect('/print')
+
+    if request.method == 'GET':
+        if request.user.is_authenticated() and not request.user.is_superuser and request.user.username != 'ballonserver':
+            request.session['logintime'] = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            user = request.user
+            return render_to_response('print_index.html', locals(), context_instance=RequestContext(request))
 
     if request.method == 'POST':
         input = request.POST.get('input1')
@@ -37,12 +40,14 @@ def login(request):
             errors.append('Permission denied')
         else:
             auth.login(request, user)
-    if request.user.is_authenticated() and not request.user.is_superuser:
-        request.session['logintime'] = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        return render_to_response('print_index.html')
-    return render_to_response('print_login.html',
-                              locals(),
-                              context_instance=RequestContext(request))
+            return HttpResponseRedirect('.')
+
+    return render_to_response('print_login.html', locals(), context_instance=RequestContext(request))
+
+def logout(request):
+    auth.logout(request)
+    return HttpResponseRedirect('.')
+
 
 @csrf_exempt
 def submit_code(request):
@@ -51,13 +56,11 @@ def submit_code(request):
     elif request.method == 'POST':
         team = Team.objects.get(account=request.user)
         text = request.POST.get('code')
-        valid = request.POST.get('print')
-        code = Code.objects.create(team=team, text=text, is_print=False)
+        code = Code.objects.create(team=team, text=text, isPrint=False)
         Printer().print_code(code)
-        if valid != 'acm1234+-*/':
-            pass
-        elif code.is_print:
+        if code.isPrint:
             return render_to_response('print_ok.html')
         else:
             return render_to_response('print_fail.html')
     return HttpResponseRedirect('/print')
+

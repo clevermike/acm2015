@@ -28,8 +28,8 @@
         {% for ts in standing %}
         <tr align="center" class="table_text" {% cycle '' 'bgcolor="#D7EBFF"' %}>
             <td height="30">
-            {% if ts.isWinner %}<img src="/static/img/cup.gif"></td>{% elif ts.isGold %}<img src="/static/img/gold.gif"></td>{% elif ts.isSilver %}<img src="/static/img/silver.gif"></td>{% elif ts.isBronze %}<img src="/static/img/bronze.gif"></td>{% elif ts.isIron %}<img src="/static/img/yousheng.gif"></td>{% elif ts.isFriend %}*</td>{% endif %}
-            <td height="30">{{ ts.sRank }}</td>
+            {% if ts.isWinner %}<img src="/static/img/cup.gif"></td>{% elif ts.isGold %}<img src="/static/img/gold.gif"></td>{% elif ts.isSilver %}<img src="/static/img/silver.gif"></td>{% elif ts.isBronze %}<img src="/static/img/bronze.gif"></td>{% elif ts.isIron %}<img src="/static/img/yousheng.gif"></td>{% elif ts.isStar %}*</td>{% endif %}
+            <td height="30">{{ ts.schoolRank }}</td>
             <td width="120" class="fixedsize">{{ ts.school }}</td>
             <td height="30">{{ ts.rank }}</td>
             <td width="120" class="fixedsize">{{ ts.teamName }}</td>
