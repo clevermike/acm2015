@@ -24,6 +24,7 @@
 > sudo apt-get install python-dev
 >
 > sudo pip install mysql-python
+
 #### 1.3 安装pc^2
 > http://pc2.ecs.csus.edu/secret.940-1220.html
 
@@ -47,7 +48,10 @@
 > * 比赛气球安排
 > * 打印机配置(需要与系统设置的打印机名称一致)
 
-#### 2.3 初始化数据
+#### 2.3 启动服务
+> 执行sdacm/start.sh脚本,启动服务(需要手动输入root密码)
+
+#### 2.4 初始化数据
 > 首先需要启动pc2board, 以生成results.xml
 >
 > 将比赛队伍信息按照user.txt格式准备好, 打开http://localhost/master，用django的管理员账户登录，选择“导入数据”，将准备好的队伍信息表上传
