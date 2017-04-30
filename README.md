@@ -11,10 +11,10 @@
 > * [选手端]排行榜,打印代码服务;
 > * [赛场工作人员端]气球状态,大屏幕倒计时及赛场指令,大屏幕滚动排行榜。
 
-## 1 环境搭建
+## 1 环境搭建(base:ubuntu14.04,python2.7.x)
 
 #### 1.1 安装django
-> sudo pip install django
+> sudo pip install Django==1.9
 
 #### 1.2 安装mysql
 > sudo apt-get install mysql-server
